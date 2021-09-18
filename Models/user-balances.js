@@ -9,7 +9,14 @@ module.exports = {
   "user-3": {
     ETH: "5",
   },
-  "user-4": {
+  "user-998": {
     BTC: "1"
+  },
+  "user-999": {
+    ETH: "1"
+  },
+  "user-1000": {
+    BTC: "1",
+    ETH: "1"
   },
 };

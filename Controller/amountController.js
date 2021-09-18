@@ -1,5 +1,6 @@
-const userBalances = require("../Models/user-balances");
+
 const request = require("request-promise");
+const userBalances = require("../Models/user-balances");
 
 const url = "http://www.bitstamp.net/api/v2/ticker/";
 const rates = {
