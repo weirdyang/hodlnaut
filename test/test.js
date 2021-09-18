@@ -16,7 +16,7 @@ describe("Test", () => {
   });
 });
 
-describe("BTCUSD value is correct", () => {
+describe("BTCUSD and ETHUSD values are correct", () => {
   var btcusd;
   var ethusd;
 
