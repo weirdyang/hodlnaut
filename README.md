@@ -1,15 +1,22 @@
 # Hodlnaut Technical Test
 
-Get value of user account in terms of the USD. Implementation is found in the amountController.js
+Get value of user account in terms of the USD. 
 
 ## Getting Started
 
-* To start
 * Open cmd and navigate to folder
 * npm install
 * npm start
 * Server will be running on localhost:3000
 * endpoint is at http://localhost:3000/test/:id
+
+## Important
+
+* Implementation of function is found in the /Controller/amountController.js
+* Test is found in /test/test.js
+* Data is found in /Models/user-balance.js
+* user-998, user-999 and user-1000 are for testing purposes
+* I forsee the test to go wrong occasionally due to the way the rest api calls are made with a delay so the values might change between the calls, however in my testing it has always passed so I decided to keep it as such for now.
 
 ## Questions
 
