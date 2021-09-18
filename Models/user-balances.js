@@ -9,4 +9,7 @@ module.exports = {
   "user-3": {
     ETH: "5",
   },
+  "user-4": {
+    BTC: "1"
+  },
 };
